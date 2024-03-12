@@ -30,6 +30,7 @@ async function registrar(nombre, edad, tipo, color, enfermedad) {
   };
   citas.push(nuevaCita);
   await escribir(citas);
+  console.log(nuevaCita);
   console.log("Se ha registrado la nueva cita");
 }
 

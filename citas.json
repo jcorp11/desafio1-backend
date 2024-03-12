@@ -12,5 +12,12 @@
     "tipo": "perro",
     "color": "blanco",
     "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "Melva",
+    "edad": "2 años",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "vomitos"
   }
 ]
