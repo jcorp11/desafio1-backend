@@ -6,7 +6,7 @@ const [operacion, ...params] = arg;
 //console.log(params);
 
 const [nombre, edad, tipo, color, enfermedad] = params;
-console.log({ nombre, edad, tipo, color, enfermedad });
+//console.log({ nombre, edad, tipo, color, enfermedad });
 
 const main = async () => {
   switch (operacion) {
@@ -21,7 +21,7 @@ const main = async () => {
   }
 };
 
-//main();
+main();
 // node index.js registrar Benito "2 años" perro blanco vomitos
 // node index.js registrar Melva "2 años" gato negro vomitos
 // node index.js registrar Melva "2 años" gato negro vomitos mugetsu
