@@ -40,5 +40,12 @@
     "tipo": "gato",
     "color": "negro",
     "enfermedad": "mugetsu"
+  },
+  {
+    "nombre": "Melva",
+    "edad": "2 años",
+    "tipo": "gato",
+    "color": "negro",
+    "enfermedad": "vomitos"
   }
 ]
